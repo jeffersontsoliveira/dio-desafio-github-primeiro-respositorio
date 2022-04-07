@@ -1,1 +1,2 @@
 Link do Notion sobre anotações das aulas de Git: https://www.notion.so/Git-Tutorial-04725b7ff0d14af880e8515d0ddf18e2
+Link para remover arquivos indesejados no Github:https://medium.com/@EleEstevao/removendo-pastas-e-ou-arquivos-do-reposit%C3%B3rio-no-github-com-gitignore-2724d4c89562
