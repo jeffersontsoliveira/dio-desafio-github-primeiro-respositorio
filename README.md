@@ -1,4 +1,4 @@
-# Desafio de Projeto Sobrte Gi/Github da DIO
+# Desafio de Projeto Sobrte Git/Github da DIO
 Repositório criado para o desafio de projeto
 
 ## Links úteis
